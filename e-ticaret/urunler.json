@@ -1,0 +1,30 @@
+[
+    {
+        "urun_kodu": "URN-0001",
+        "urun_adi": "Kişisel Bilgisayar (PC)",
+        "kategori": "Elektronik / Bilgisayar",
+        "seo_etiketleri": [
+            "masaüstü bilgisayar",
+            "pc",
+            "bilgisayar"
+        ],
+        "satis_aciklamasi": "Günlük işleriniz, ofis çalışmaları ve genel kullanım ihtiyaçlarınız için tasarlanmış standart kişisel bilgisayar.",
+        "urun_aciklamasi": "PC",
+        "fiyat": 20000.0,
+        "stok": 15
+    },
+    {
+        "urun_kodu": "URN-0002",
+        "urun_adi": "Bilgisayar",
+        "kategori": "Elektronik / Bilgisayar",
+        "seo_etiketleri": [
+            "bilgisayar",
+            "masaüstü bilgisayar",
+            "teknoloji"
+        ],
+        "satis_aciklamasi": "Günlük işlerinizi, eğitim süreçlerinizi veya profesyonel projelerinizi yönetebileceğiniz temel bilgisayar modeli.",
+        "urun_aciklamasi": "Bilgisayar,",
+        "fiyat": 12.0,
+        "stok": 12
+    }
+]
